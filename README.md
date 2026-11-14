@@ -1,3 +1,36 @@
+
+# G07 – T01 Coverage Planner
+
+## Thông tin học viên
+- Họ tên: Hồ Đăng Mạnh
+- Mã học viên: 2A202603092
+- Nhóm: G07
+- Hình thức: Cá nhân
+- Challenge: T01 – Coverage Planner
+- Thuật toán: Greedy Weighted Coverage
+- Branch: main
+- Commit báo cáo: 4339d79
+
+## Kết quả thực nghiệm
+- Dữ liệu đầu vào: 120 clip
+- Số clip lựa chọn: 30
+- Weighted Coverage proxy: 0.8125 (81.25%)
+- Random Baseline: 0.3750 (37.50%)
+- Hard Coverage: 4/4
+- Human Review: 20 clip và 3 ô rủi ro
+- Decision: HOLD – RISK_REVIEW_UNRESOLVED
+- Preflight: 0 FAIL, 2 WARN
+- Pytest: Không có kiểm thử thất bại
+
+## Báo cáo và mã nguồn
+- Báo cáo: reports/group_report.md
+- Thuật toán: src/pipeline.py
+- Kiểm thử: tests/test_t01_g07.py
+- Kết quả: reports/table1_proxy_only.md
+
+---
+
+# Hướng dẫn gốc Day 06
 # Day 06 · Data Lab · Field-to-Release PoC (AI20K · Data Track)
 
 Starter repo cho bài lab **Data Pipeline, Privacy & Production PoC**: 14 challenge (T01–T14), một contract chung.
