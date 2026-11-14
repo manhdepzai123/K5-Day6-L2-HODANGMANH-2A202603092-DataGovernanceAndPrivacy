@@ -1,0 +1,6 @@
+ts,scope,status,canonical,reason_code,reason,owner,evidence
+2026-11-14T09:21:11+00:00,t01,HOLD,HOLD,PENDING_HUMAN_REVIEW,Clip and/or risk-cell review not completed,TODO: tên người ký duyệt (role),out\poc\pick.csv;out\poc\coverage.csv;out\poc\capture_plan.csv;out\poc\review_queue.csv;out\poc\risk_cells_review_queue.csv
+2026-11-14T09:49:09+00:00,t01,HOLD,HOLD,PENDING_HUMAN_REVIEW,Clip and/or risk-cell review not completed,TODO: tên người ký duyệt (role),out\poc\pick.csv;out\poc\coverage.csv;out\poc\capture_plan.csv;out\poc\review_queue.csv;out\poc\risk_cells_review_queue.csv
+2026-11-14T09:57:55+00:00,t01,HOLD,HOLD,RISK_REVIEW_UNRESOLVED,Some reviews need escalation or were rejected,TODO: tên người ký duyệt (role),out\poc\pick.csv;out\poc\coverage.csv;out\poc\capture_plan.csv;out\poc\review_queue.csv;out\poc\risk_cells_review_queue.csv
+2026-11-14T10:02:31+00:00,t01,HOLD,HOLD,RISK_REVIEW_UNRESOLVED,Some reviews need escalation or were rejected,TODO: tên người ký duyệt (role),out\poc\pick.csv;out\poc\coverage.csv;out\poc\capture_plan.csv;out\poc\review_queue.csv;out\poc\risk_cells_review_queue.csv
+2026-11-14T10:05:19+00:00,t01,HOLD,HOLD,RISK_REVIEW_UNRESOLVED,Some reviews need escalation or were rejected,TODO: tên người ký duyệt (role),out\poc\pick.csv;out\poc\coverage.csv;out\poc\capture_plan.csv;out\poc\review_queue.csv;out\poc\risk_cells_review_queue.csv

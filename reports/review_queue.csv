@@ -1,0 +1,21 @@
+﻿rank,item_id,score,reason,suggested_action,slice,evidence_path,reviewer,reviewer_decision,override_value,review_note,reviewed_at
+1,clip_112,30.0,new_weight=0; risk=high; unknown=True,escalate,,,Hồ Đăng Mạnh,escalate,,weather=unknown; metadata_only; video_unavailable; verify_weather,2026-11-14T16:48:54+07:00
+2,clip_015,25.0,new_weight=0; risk=med; unknown=True,escalate,,,Hồ Đăng Mạnh,escalate,,object=unknown; metadata_only; video_unavailable; verify_object,2026-11-14T16:48:54+07:00
+3,clip_115,10.05,new_weight=5; risk=high; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,urban/rain/night/pedestrian; metadata_only; video_unavailable; verify_tags,2026-11-14T16:48:54+07:00
+4,clip_108,10.05,new_weight=5; risk=high; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,urban/rain/night/motorbike; metadata_only; video_unavailable; verify_tags,2026-11-14T16:48:54+07:00
+5,clip_098,10.04,new_weight=4; risk=high; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,highway/clear/dusk/motorbike_occluded; metadata_only; video_unavailable; verify_occlusion,2026-11-14T16:48:54+07:00
+6,clip_019,10.03,new_weight=3; risk=high; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,highway/rain/night/car; metadata_only; video_unavailable; verify_tags,2026-11-14T16:48:54+07:00
+7,clip_021,10.0,new_weight=0; risk=high; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,urban/clear/day/motorbike_occluded; metadata_only; video_unavailable; verify_occlusion,2026-11-14T16:48:54+07:00
+8,clip_101,5.04,new_weight=4; risk=med; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,alley/clear/night/pedestrian; metadata_only; video_unavailable; verify_tags,2026-11-14T16:48:54+07:00
+9,clip_053,5.03,new_weight=3; risk=med; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,highway/fog/day/motorbike; metadata_only; video_unavailable; verify_fog,2026-11-14T16:48:54+07:00
+10,clip_114,5.03,new_weight=3; risk=med; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,urban/clear/dusk/pedestrian; metadata_only; video_unavailable; verify_tags,2026-11-14T16:48:54+07:00
+11,clip_032,5.03,new_weight=3; risk=med; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,urban/rain/day/motorbike; metadata_only; video_unavailable; verify_tags,2026-11-14T16:48:54+07:00
+12,clip_055,5.02,new_weight=2; risk=med; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,urban/clear/night/car; metadata_only; video_unavailable; verify_tags,2026-11-14T16:48:54+07:00
+13,clip_075,5.02,new_weight=2; risk=med; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,highway/clear/night/motorbike; metadata_only; video_unavailable; verify_tags,2026-11-14T16:48:54+07:00
+14,clip_018,5.0,new_weight=0; risk=med; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,urban/rain/dusk/car; metadata_only; video_unavailable; verify_tags,2026-11-14T16:48:54+07:00
+15,clip_082,5.0,new_weight=0; risk=med; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,urban/fog/day/pedestrian; metadata_only; video_unavailable; verify_fog,2026-11-14T16:48:54+07:00
+16,clip_105,5.0,new_weight=0; risk=med; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,highway/clear/night/car; metadata_only; video_unavailable; verify_tags,2026-11-14T16:48:54+07:00
+17,clip_020,5.0,new_weight=0; risk=med; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,urban/clear/night/pedestrian; metadata_only; video_unavailable; verify_tags,2026-11-14T16:48:54+07:00
+18,clip_037,5.0,new_weight=0; risk=med; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,highway/rain/day/motorbike; metadata_only; video_unavailable; verify_tags,2026-11-14T16:48:54+07:00
+19,clip_052,5.0,new_weight=0; risk=med; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,highway/fog/day/car; metadata_only; video_unavailable; verify_fog,2026-11-14T16:48:54+07:00
+20,clip_078,5.0,new_weight=0; risk=med; unknown=False,review,,,Hồ Đăng Mạnh,escalate,,urban/clear/night/motorbike; metadata_only; video_unavailable; verify_tags,2026-11-14T16:48:54+07:00
