@@ -550,6 +550,3 @@ Ghi chú: Ngày 14/11/2026 là ngày tổng hợp nguồn khi soạn báo cáo; 
 ### Kết luận
 
 Dự án G07 – T01 đã hoàn thiện phần thuật toán, kiểm thử và đánh giá metadata-proxy. Preflight đạt 0 FAIL, 2 WARN. Quyết định hiện tại là HOLD do Human Review chưa được xác minh.
-
-Trước khi nộp cần hoàn thiện các minh chứng còn thiếu, cập nhật Repository GitHub và xác nhận yêu cầu đánh giá chính thức với giảng viên.
-
