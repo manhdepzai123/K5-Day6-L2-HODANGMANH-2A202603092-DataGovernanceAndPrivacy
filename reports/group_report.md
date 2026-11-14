@@ -20,7 +20,7 @@
 | Branch | main |
 | Commit đã tạo trên máy | 9a7c7c2 |
 | Tag `demo-180m` | Chưa xác nhận |
-| Tag `final-24h` | Chưa xác nhận |
+| Tag `final-24h` | 9a7c7c2 |
 | Deadline (giờ Việt Nam) | 12:00, 15/11/2026 |
 | Kết quả kiểm thử | Pytest hoàn tất 100%; Preflight: 0 FAIL, 2 WARN |
 | Trạng thái quyết định | HOLD – RISK_REVIEW_UNRESOLVED |
@@ -541,12 +541,13 @@ Ghi chú: Ngày 14/11/2026 là ngày tổng hợp nguồn khi soạn báo cáo; 
 
 ## Bảng 3 · Checklist chốt khi nộp
 
-- [ ] Link GitHub đã có, nhưng chưa cập nhật README, chưa tạo hai tag `demo-180m`, `final-24h` và chưa xác nhận Push thành công.
-- [ ] Đã có lệnh chạy PoC và Pytest offline. Lệnh đánh giá chính thức chưa chạy do thiếu verified Ground Truth.
-- [ ] Đã có bảng so sánh Baseline/PoC dạng metadata-proxy, hai failure case, Human Review và Decision Log. Cần đưa bằng chứng review vào hồ sơ nộp và bổ sung metrics chính thức khi có GT.
-- [ ] Đã xác nhận license CC0-1.0 theo manifest, nguồn dữ liệu synthetic, Dev = 120, Holdout = 25, seed = 42 và môi trường offline. Chưa có số lượng GT/eval chính thức.
-- [ ] Hồ Đăng Mạnh thực hiện cá nhân, đã có commit `9a7c7c2` trên máy. Cần cập nhật `reports/team_contributions.csv`, bổ sung commit báo cáo hoàn chỉnh và Push lên GitHub.
+- [x] Repository GitHub và README đã cập nhật. Tag `final-24h` đã Push thành công tại commit `31f436e`.
+- [ ] Tag `demo-180m` chưa được tạo; cần xác nhận mốc demo thực tế.
+- [ ] Đã có lệnh chạy PoC và Pytest offline. Chưa đánh giá chính thức vì chưa có verified Ground Truth.
+- [x] Đã có bảng so sánh Baseline/PoC dạng metadata-proxy, hai failure case, Human Review, Decision Log và Audit Log trên GitHub.
+- [x] Đã xác minh SHA-256, nguồn dữ liệu synthetic, Dev = 120, Holdout = 25, seed = 42. Chưa có GT chính thức.
+- [x] Hồ Đăng Mạnh thực hiện cá nhân, đã cập nhật `reports/team_contributions.csv`, Commit và Push lên GitHub.
 
 ### Kết luận
 
-Dự án G07 – T01 đã hoàn thiện phần thuật toán, kiểm thử và đánh giá metadata-proxy. Preflight đạt 0 FAIL, 2 WARN. Quyết định hiện tại là HOLD do Human Review chưa được xác minh.
+Dự án G07 – T01 đã hoàn thành phần thuật toán, kiểm thử, báo cáo và minh chứng Human Review. Preflight đạt 0 FAIL, 2 WARN. Tag `final-24h` đã được đẩy lên GitHub. Quyết định hiện tại vẫn là HOLD do chưa xác minh video gốc.
